@@ -37,4 +37,9 @@ tuple.ipynb
 set.ipynb
 bytes.ipynb
 namebanding.ipynb
+circulation.ipynb
+condition.ipynb
+for.ipynb
+while.ipynb
+circulationElse.ipynb
 ……更新中
