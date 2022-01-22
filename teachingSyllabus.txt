@@ -28,7 +28,6 @@
 variable.ipynb
 indentation.ipynb
 operator.ipynb
-function.ipynb
 input.ipynb
 print.ipynb
 annotation.ipynb
@@ -46,6 +45,8 @@ continue.ipynb
 circulationElse.ipynb
 assert.ipynb
 enumerate,ipynb
+dictionary.ipynb
+function.ipynb
 
 
 ……更新中
