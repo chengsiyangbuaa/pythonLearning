@@ -34,7 +34,7 @@ annotation.ipynb
 list.ipynb
 tuple.ipynb
 set.ipynb
-bytes.ipynb
+bytes.ipynb #不看
 namebanding.ipynb
 circulation.ipynb
 condition.ipynb
@@ -43,6 +43,7 @@ while.ipynb
 break.ipynb
 continue.ipynb
 circulationElse.ipynb
+zip.ipynb
 assert.ipynb
 enumerate,ipynb
 dictionary.ipynb
