@@ -31,7 +31,7 @@ operator.ipynb
 input.ipynb
 print.ipynb
 annotation.ipynb
-list.ipynb
+list.ipynb --2022/01/22
 tuple.ipynb
 set.ipynb
 bytes.ipynb #不看
@@ -48,6 +48,17 @@ assert.ipynb
 enumerate,ipynb
 dictionary.ipynb
 function.ipynb
-
+OOP.ipynb
+OOPfloder
+    Person.py
+    Employee.py
+    createobj.py
+    A.py
+    B.py
+    C.py
+    D.py
+    createobj2.py
+    Private.py
+    
 
 ……更新中
