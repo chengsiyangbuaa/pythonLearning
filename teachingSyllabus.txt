@@ -45,7 +45,7 @@ continue.ipynb
 circulationElse.ipynb
 zip.ipynb
 assert.ipynb
-enumerate,ipynb
+enumerate,ipynb --2022/01/24
 dictionary.ipynb
 function.ipynb
 OOP.ipynb
@@ -60,6 +60,23 @@ OOPfloder
     createobj2.py
     Private.py
     Tomato.py
-    
-
+    MagicMethod.py
+string.ipynb
+dataresourse
+    data1
+    data2
+    data3
+    data4
+fileFolder
+    filewrite1
+    filewrite2
+    filewrite3
+    fileread1
+    fileread2
+    fileread3
+    fileadd1
+fileFolder2
+    filesread1.py
+fileFolder3
+    fileIteration
 ……更新中

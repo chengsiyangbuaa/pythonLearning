@@ -1,0 +1,2 @@
+Hello world!
+use os.getcwd() to get the path to write file!

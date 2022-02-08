@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "d:\buaa\pythonLearning\streamFolder\stdin.py", line 23, in <module>
+    raise Exception("Raise an execption!")
+Exception: Raise an execption!

@@ -1,0 +1,5 @@
+f = open("..\\fileFolder1\\datafile.txt","r")
+sLine1 = f.readline()
+sLine2 = f.readline()
+print(sLine1,sLine2)
+f.close()
