@@ -1,6 +1,8 @@
 from Person import Person, Gender
 #父类parent class 超类super class 基类base class
 #子类sub class 扩展类 derived class 继承类 inherited class
+
+
 class Employee(Person):#继承 inheritence  
     def __init__(self,emplNo,idNo,name):
         super(Employee,self).__init__(idNo,name)  #把Person对象初始化了。super(Employee,self)指获得Employee类型的父类对象，并且这个对象是self的对象

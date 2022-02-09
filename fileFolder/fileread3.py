@@ -1,6 +1,6 @@
 import os
 cwd = os.getcwd()
-filename = "os_cwd_file"
+filename = "os_cwd_file.txt"
 openmode = "r"
 print("the current work path is:",cwd)
 f = open(cwd+"\\"+filename,openmode)

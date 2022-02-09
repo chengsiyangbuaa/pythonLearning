@@ -45,7 +45,7 @@ continue.ipynb
 circulationElse.ipynb
 zip.ipynb
 assert.ipynb
-enumerate,ipynb --2022/01/24
+enumerate.ipynb --2022/01/24
 dictionary.ipynb
 function.ipynb
 OOP.ipynb
@@ -79,4 +79,4 @@ fileFolder2
     filesread1.py
 fileFolder3
     fileIteration
-……更新中
+毕业！

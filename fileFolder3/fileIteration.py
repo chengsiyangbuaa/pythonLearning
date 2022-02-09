@@ -4,6 +4,15 @@ with open("names.txt","r") as f:
         if not char:
             break
         print(char,end=",")
+'''
+f = open("names.txt","r")
+    while True:
+        char = f.read(1)
+        if not char:
+            break
+        print(char,end=",")
+f.close()
+'''
 print("\n**************************************************")
 with open("names.txt","r") as f:
     for x in f.readlines():
